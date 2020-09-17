@@ -1,15 +1,17 @@
 class Dog
-def initialize
-
-
-bark = Dog.new
 
 def bark
 puts "Woof!"
 
-
-
-sit = Dog.new
+end
 
 def sit
 puts "The Dog is sitting"
+
+end
+
+end
+
+fido = Dog.new
+fido.bark
+fido.sit
