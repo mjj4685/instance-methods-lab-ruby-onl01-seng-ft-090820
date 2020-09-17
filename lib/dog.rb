@@ -2,7 +2,7 @@ class Dog
 def initialize
 
 
-bark = Dog.new
+fido = Dog.new
 
 def bark
 puts "Woof!"
