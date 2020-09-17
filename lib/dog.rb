@@ -15,4 +15,3 @@ end
 fido = Dog.new
 fido.bark
 fido.sit
-
